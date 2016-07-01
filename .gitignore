@@ -1,0 +1,5 @@
+.gradle
+.idea
+productCatalog.iml
+productCatalog.iws
+build
